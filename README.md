@@ -20,8 +20,8 @@ API REST para gerenciamento de cursos, estudantes e matrículas, com autenticaç
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/<seu-usuario>/<seu-repo>.git
-   cd <seu-repo>
+   git clone [https://github.com/<seu-usuario>/<seu-repo>.git](https://github.com/denisiorodrigues/aluracheck-escola.git)
+   cd aluracheck-escola
    ```
 
 2. Configure os segredos locais (nunca commitar segredos no repositório):
